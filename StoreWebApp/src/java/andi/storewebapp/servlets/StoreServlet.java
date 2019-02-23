@@ -48,6 +48,7 @@ public class StoreServlet extends HttpServlet
             out.println("<h1>Quantity: "+strQuantity+"</h1>");
             out.println("<h1>Cost: "+ iCost +"</h1>");
             out.println("</html>");
+
         }
     }
 
